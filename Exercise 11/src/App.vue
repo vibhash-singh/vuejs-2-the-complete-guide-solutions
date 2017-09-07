@@ -5,10 +5,7 @@
                 <h1>Filters & Mixins</h1>
 
                 <p> {{ text | reverse | countAppend}}</p>
-
-
                 <p> {{ countAppendComputed }}</p>
-
 
             </div>
         </div>
